@@ -1,0 +1,23 @@
+name: Blues Dues
+favicon: null
+layout_spectrum: 0.9098146290052682
+typography_spectrum: 0.7272841490339488
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3591021648608148
+  lightness: 0.026599042117595673
+  saturation: 0.1839548486750573
+  rhythmicContrast: 0.6713427503127605
+purpose: []
