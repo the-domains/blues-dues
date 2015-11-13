@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blues Dues]]></title>
+        <description><![CDATA[Blues Dues]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 Nov 2015 10:14:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[$10 a month. Every month. Every year.]]></title>
+            <description><![CDATA[<article><h1>$10 a month. Every month. Every year.</h1><p>Blues Dues will help committed Dems contribute to a people powered democracy. $10 a month. Every month. Every year.</p></article>]]></description>
+            <link>undefineddollar10-a-month-every-month-every-year/index.html</link>
+            <guid isPermaLink="false">912e2d2f-0a1c-4c21-8178-0dba1234686c</guid>
+            <pubDate>Thu, 12 Nov 2015 23:32:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
